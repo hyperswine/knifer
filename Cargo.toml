@@ -1,0 +1,9 @@
+[package]
+name = "knifer"
+version = "0.1.0"
+edition = "2021"
+license-file = "LICENSE"
+description = "A wasm container system. In progress"
+authors = ["Jason Qin"]
+
+[dependencies]
